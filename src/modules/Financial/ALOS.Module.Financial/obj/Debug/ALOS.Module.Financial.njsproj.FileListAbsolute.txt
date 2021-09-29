@@ -1,0 +1,3 @@
+C:\Users\Lester.Cerioli\source\repos\Azure\ALOS-API-Node\src\modules\Financial\ALOS.Module.Financial\obj\Debug\ALOS.Module.Financial.njsproj.AssemblyReference.cache
+C:\Users\Lester.Cerioli\source\repos\Azure\ALOS-API-Node\src\modules\Financial\ALOS.Module.Financial\obj\Debug\ALOS.Module.Financial.njsproj.CoreCompileInputs.cache
+C:\Users\Lester.Cerioli\source\repos\Azure\ALOS-API-Node\src\modules\Financial\ALOS.Module.Financial\bin\Microsoft.NodejsTools.WebRole.dll

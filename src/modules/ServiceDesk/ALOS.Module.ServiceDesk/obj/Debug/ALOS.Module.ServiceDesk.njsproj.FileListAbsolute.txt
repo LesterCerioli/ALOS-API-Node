@@ -1,0 +1,2 @@
+C:\Users\Lester.Cerioli\source\repos\Azure\ALOS-API-Node\src\modules\ServiceDesk\ALOS.Module.ServiceDesk\obj\Debug\ALOS.Module.ServiceDesk.njsproj.CoreCompileInputs.cache
+C:\Users\Lester.Cerioli\source\repos\Azure\ALOS-API-Node\src\modules\ServiceDesk\ALOS.Module.ServiceDesk\bin\Microsoft.NodejsTools.WebRole.dll
